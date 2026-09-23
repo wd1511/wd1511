@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wd1511 [[Homepage](https://wd1511.github.io)] 
-- 👀 I’m interested in image and video generation, diffusion model, and vision language model, etc. 
+- 👀 I’m interested in image and video generation, diffusion models, vision-language models, and world models.
 - 💞️ 
 - 📫 How to reach me ...
 
